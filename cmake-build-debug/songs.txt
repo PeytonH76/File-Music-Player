@@ -1,0 +1,12 @@
+/Users/peytonhaws/Documents/AppliedProgramming/MusicPlayer/cmake-build-debug/02MightyRiversRun.m4a
+Mighty Rivers Run by Globus
+/Users/peytonhaws/Documents/AppliedProgramming/MusicPlayer/cmake-build-debug/04BeMyEyes.wav
+Be My Eyes by Pentatonix
+/Users/peytonhaws/Documents/AppliedProgramming/MusicPlayer/cmake-build-debug/18Warriors.wav
+Warriors by Imagine Dragons
+/Users/peytonhaws/Documents/AppliedProgramming/MusicPlayer/cmake-build-debug/CaliforniaDreamin.wav
+California Dreamin by The Mamas & Papas
+/Users/peytonhaws/Documents/AppliedProgramming/MusicPlayer/cmake-build-debug/Europa.wav
+Europa by Globus
+/Users/peytonhaws/Documents/AppliedProgramming/MusicPlayer/cmake-build-debug/meeting_stars.mp3
+Meeting Stars by Unanimous

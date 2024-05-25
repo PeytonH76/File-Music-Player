@@ -1,0 +1,19 @@
+# ninja log v5
+6	642	1716562803931372639	CMakeFiles/MusicPlayer.dir/SongList.cpp.o	fd902a626cfe2d5e
+5	684	1716562803974418311	CMakeFiles/MusicPlayer.dir/main.cpp.o	5762ec8a46eb0e41
+752	887	1716563870382182973	MusicPlayer	3d2842a207d1f5a1
+3	60	1716571966104081393	build.ninja	833ab679b9b835fe
+6	614	1716563870106371351	CMakeFiles/MusicPlayer.dir/MainSongPlayer.cpp.o	8f59b34b86c4f580
+6	652	1716562803943079304	CMakeFiles/MusicPlayer.dir/PlaySong.cpp.o	3226856da7a24ee3
+7	752	1716563870245413877	CMakeFiles/MusicPlayer.dir/AddSong.cpp.o	e4692db6cb6d0970
+7	665	1716573637770524257	CMakeFiles/MusicPlayer.dir/MainSongPlayer.cpp.o	8f59b34b86c4f580
+7	707	1716573637815571695	CMakeFiles/MusicPlayer.dir/PlaySong.cpp.o	3226856da7a24ee3
+7	714	1716573637822598481	CMakeFiles/MusicPlayer.dir/SongList.cpp.o	fd902a626cfe2d5e
+7	715	1716573637824133485	CMakeFiles/MusicPlayer.dir/RandomSongPlayer.cpp.o	ebe2651b08b66b1
+7	760	1716573637868613479	CMakeFiles/MusicPlayer.dir/main.cpp.o	5762ec8a46eb0e41
+7	797	1716573637907139451	CMakeFiles/MusicPlayer.dir/AddSong.cpp.o	e4692db6cb6d0970
+797	993	1716573638102724618	MusicPlayer	136584a269c576d0
+17	722	1716608607139440236	CMakeFiles/MusicPlayer.dir/SongList.cpp.o	fd902a626cfe2d5e
+17	723	1716608607139446027	CMakeFiles/MusicPlayer.dir/RandomSongPlayer.cpp.o	ebe2651b08b66b1
+14	740	1716608607161936196	CMakeFiles/MusicPlayer.dir/main.cpp.o	5762ec8a46eb0e41
+740	897	1716608607320473461	MusicPlayer	136584a269c576d0
